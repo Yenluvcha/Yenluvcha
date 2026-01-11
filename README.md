@@ -1,4 +1,4 @@
-# Hi, I'm Nasreen Nordin👋
+# Hi, I'm Nasreen Nordin👋🏼
 
 ### 👨‍💻 About Me
 - Fullstack web developer based in Malaysia 🇲🇾
