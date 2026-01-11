@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Nasreen Nordin👋
+
+### 👨‍💻 About Me
+- Fullstack developer specializing in PHP, JavaScript, and SQL Server
+- Experience building and modernizing internal systems
+- Interested in system architecture, performance, and clean code
 
 <!--
 **Yenluvcha/Yenluvcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
