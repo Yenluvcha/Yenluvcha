@@ -1,7 +1,8 @@
 # Hi, I'm Nasreen Nordin👋
 
 ### 👨‍💻 About Me
-- Fullstack developer specializing in PHP, JavaScript, and SQL Server
+- Fullstack web developer based in Malaysia 🇲🇾
+- Specializing in PHP with Laravel, JavaScript, and SQL Server
 - Experience building and modernizing internal systems
 - Interested in system architecture, performance, and clean code
 
