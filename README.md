@@ -9,7 +9,7 @@
 ### 💻 Tech Stacks
 - Frontend: HTML5, CSS, Bootstrap 5, Tailwind CSS, JavaScript, React JS, JQuery
 - Backend: PHP, Laravel
-- Database: SQL Server, SQLite, MySQL
+- Database: SQL Server, SQLite, MySQL, PostgreSQL
 - Tools: Visual Studio Code, Git, Postman, Redis, Xampp, Laravel Herd
 <!--
 **Yenluvcha/Yenluvcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
